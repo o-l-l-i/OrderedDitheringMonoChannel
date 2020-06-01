@@ -27,3 +27,5 @@ This test project works with Unity 2019.3.0f6 and HDRP 7.1.8.
 ## Effect in action
 
 ![OrderedDitheringMonoChannel image](orderedDitheringDemoImage.png)
+
+© 2020 Olli Sorjonen All Rights Reserved
